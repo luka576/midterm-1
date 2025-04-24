@@ -1,4 +1,4 @@
-1. The general problems associated with me writing code was mostly not being pracctically familiar with the key points of how java works
+1. The general problems associated with me writing code was mostly not being practically familiar with the key points of how java works
 in particular, I had problems in the 2nd task, which mostly delved on the fact that I could not put the code that was in the URL into IntelliJ
 which made me copy the code in the created class, instead of just editing it. 
 Same unawareness happened when I had to create a subpackage,however, that was eaily solved, 
